@@ -8,43 +8,51 @@ import { Component, OnInit } from '@angular/core';
 export class AllsongsComponent{
   data=[{
     Songname:'Old town road',
-    Artist:'Lil Nas X'
+    Artist:'Lil Nas X',
+    dur:'2:04 mins',
+    genre:'rock'
   },
   {
     Songname:'Old town road',
-    Artist:'Lil Nas X'
+    Artist:'Lil Nas X',
+    dur:'2:04 mins',
+    genre:'rock'
   },
   {
     Songname:'Old town road',
-    Artist:'Lil Nas X'
+    Artist:'Lil Nas X',
+    dur:'2:04 mins',
+    genre:'rock'
   },
   {
     Songname:'Old town road',
-    Artist:'Lil Nas X'
+    Artist:'Lil Nas X',
+    dur:'2:04 mins',
+    genre:'rock'
   },
   {
     Songname:'Old town road',
-    Artist:'Lil Nas X'
+    Artist:'Lil Nas X',
+    dur:'2:04 mins',
+    genre:'rock'
   },
   {
     Songname:'Old town road',
-    Artist:'Lil Nas X'
+    Artist:'Lil Nas X',
+    dur:'2:04 mins',
+    genre:'rock'
   },
   {
     Songname:'Old town road',
-    Artist:'Lil Nas X'
+    Artist:'Lil Nas X',
+    dur:'2:04 mins',
+    genre:'rock'
   },
   {
     Songname:'Old town road',
-    Artist:'Lil Nas X'
-  },
-  {
-    Songname:'Old town road',
-    Artist:'Lil Nas X'
-  },
-  {
-    Songname:'Old town road',
-    Artist:'Lil Nas X'
+    Artist:'Lil Nas X',
+    dur:'2:04 mins',
+    genre:'rock'
   }
  
 ]

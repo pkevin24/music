@@ -14,8 +14,11 @@
 }
 .sec{
     background-color: beige;
-    width: 1200px;
-    margin-left: 210px;
+    /* background-image: url("/assets/images/bg1.jpg");
+    background-size: 100%;
+    background-size: cover; */
+    width: 1060px;
+    margin-left: 200px;
     /* height:200px */
 
 }
@@ -27,5 +30,21 @@
     background-color: beige;
     padding-top: 70px;
     padding-bottom: 90px;
+    background-image: url("/assets/images/bg1.jpg");
+    background-size: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
     
+    
+}
+#header{
+    width: 100%;
+        position: fixed;
+        padding: 10px 0;
+        top:0;
+        height: 80px;
+        padding-left: 450px;
+ 
+        
+        
 }

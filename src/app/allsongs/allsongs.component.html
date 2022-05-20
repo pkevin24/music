@@ -1,6 +1,9 @@
 <section class="sec">
     <div class="cont">
-        <h2>ALL SONGS</h2>
+        <!-- <h2>ALL SONGS</h2> -->
+        <div style="border: 5px solid #05445E; border: radius 10px;background-color:#a8d2fa" id="header">
+            <h1 style="font-size:3.2rem;letter-spacing:0.7;color:black;font-weight: 700;font-family: 'Bebas Neue', cursive">ALL SONGS</h1>
+            </div>
         <div class="container" id="container11" *ngFor="let ele of data">
             <div class="row">
                 <div class="col-md-4">
@@ -23,6 +26,19 @@
                         </div>
                         
                     </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="well">{{ele.dur}}</div>
+                        </div>
+                        
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="well">{{ele.genre}}</div>
+                        </div>
+                        
+                    </div>
+                    
                 </div>
                
             </div>
