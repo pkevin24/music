@@ -1,0 +1,31 @@
+#container11{
+    padding-top: 5px;
+    padding-left: 80px;
+    /* font-size: 50px; */
+    height: 120px;
+    width:500px;
+    
+    border-radius: 60px;
+    color: black;
+    border: 2px solid red;
+    margin-top: 20px;
+
+    
+}
+.sec{
+    background-color: beige;
+    width: 1200px;
+    margin-left: 210px;
+    /* height:200px */
+
+}
+.song{
+    width: 100px;
+    height:100px;
+}
+.cont{
+    background-color: beige;
+    padding-top: 70px;
+    padding-bottom: 90px;
+    
+}

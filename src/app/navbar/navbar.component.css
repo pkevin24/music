@@ -1,0 +1,37 @@
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 100%;
+    /* background: pink;/ */
+}
+.logo{
+    margin-top: -120px;
+    width:175px;
+    height:175px;
+    padding-left: 10px;
+}
+ul{
+    margin-top: -240px;
+    
+}
+li{
+    padding-top: 40px;
+    padding-left: 40px;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 400;
+    font-size: large;
+}
+.active{
+    color:white;
+    border-bottom: .1rem solid red;
+    /* line-height: 10px; */
+  }
+  a:link {
+    text-decoration: none;
+    /* line-height: 15px; */
+    /* text-align: center; */
+    
+    
+  }

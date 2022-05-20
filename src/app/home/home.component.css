@@ -1,0 +1,20 @@
+#container1{
+    /* padding-left: 200px; */
+    /* margin-top: 20px; */
+    padding-top: 40px;
+    padding-left: 50px;
+    font-size: 50px;
+    height: 500px;
+    width:500px;
+    background-color: beige;
+    border-radius: 60px;
+    color: white;
+    margin-right: 380px;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 400;
+    /* font-size: large; */
+}
+p{
+    padding-top: 20px;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
