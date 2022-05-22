@@ -7,6 +7,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { HomeComponent } from './home/home.component';
 import { FooterComponent } from './footer/footer.component';
 import { AllsongsComponent } from './allsongs/allsongs.component';
+import { SongComponent } from './song/song.component';
 import { GenreComponent } from './genre/genre.component';
 import { FavComponent } from './fav/fav.component';
 import { FavoneComponent } from './favone/favone.component';
@@ -18,9 +19,14 @@ import { FavoneComponent } from './favone/favone.component';
     HomeComponent,
     FooterComponent,
     AllsongsComponent,
+<<<<<<< HEAD
     GenreComponent,
     FavComponent,
     FavoneComponent
+=======
+    SongComponent,
+    GenreComponent
+>>>>>>> 3c9d273466e6a8545867928975ee404db620626a
   ],
   imports: [
     BrowserModule,
