@@ -15,9 +15,13 @@
 {
     left: 0;
   bottom: 0;
-width: 1420px;
+/* width: 1220px; */
+width: 1285px;
   height: 80px;
+  padding-left: 200px;
 
   background-size: 100% 100%;
+  background-size: cover;
+  
 
 }
