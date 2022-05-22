@@ -17,8 +17,7 @@
     background-image: url("/assets/images/bg1.jpg");
     background-size: 100%;
     background-size: cover;
-    /* width: 1063px; */
-    width: 90%;;
+    width: 90%;
     margin-left: 200px;
     height:500px
 
@@ -48,4 +47,9 @@
  
         
         
+}
+#container12{
+    padding-top: 5px;
+    padding-left: 480px;
+    margin-top: 20px;
 }
