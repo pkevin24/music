@@ -8,6 +8,8 @@ import { HomeComponent } from './home/home.component';
 import { FooterComponent } from './footer/footer.component';
 import { AllsongsComponent } from './allsongs/allsongs.component';
 import { GenreComponent } from './genre/genre.component';
+import { FavComponent } from './fav/fav.component';
+import { FavoneComponent } from './favone/favone.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +18,9 @@ import { GenreComponent } from './genre/genre.component';
     HomeComponent,
     FooterComponent,
     AllsongsComponent,
-    GenreComponent
+    GenreComponent,
+    FavComponent,
+    FavoneComponent
   ],
   imports: [
     BrowserModule,

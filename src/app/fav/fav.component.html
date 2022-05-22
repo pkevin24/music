@@ -2,21 +2,10 @@
     <div class="cont">
         <!-- <h2>ALL SONGS</h2> -->
         <div style="border: 5px solid #05445E; border: radius 10px;background-color:#a8d2fa" id="header">
-            <h1 style="font-size:3.2rem;letter-spacing:0.8;color:black;font-weight: 900;font-family: 'Bebas Neue', cursive">EXPLORE</h1>
+            <h1 style="font-size:3.2rem;letter-spacing:0.8;color:black;font-weight: 900;font-family: 'Bebas Neue', cursive">FAVOURITES</h1>
             </div>
-        <div class="container" id="container12">
-            <form action="" method="POST">
-                <span style="font-size:2.2rem;letter-spacing:0.8;color:black;font-weight: 400;font-family: 'Bebas Neue', cursive">GENRE</span>
-                <select name="myselect" id="myselect" onchange="this.form.submit()">
-                    <option value="CLASSIC">CLASSIC</option>
-                    <option value="ROCK">ROCK</option>
-                    <option value="MELODY">MELODY</option>
-                    <option value="POP">POP</option>
-                </select>
-                
-            </form>
-        </div>
-        <div class="container" id="container11" *ngFor="let ele of data">
+        
+        <div class="container" id="container11" >
             <div class="row">
                 <div class="col-md-4">
                     <div class="well"><img src="assets\images\song.png" class="song">
@@ -28,25 +17,25 @@
                 <div class="col-md-8">
                     <div class="row">
                         <div class="col-md-6">
-                            <div class="well">{{ele.Songname}}</div>
+                            <div class="well">Songname}}</div>
                         </div>
                         
                     </div>
                     <div class="row">
                         <div class="col-md-6">
-                            <div class="well">{{ele.Artist}}</div>
+                            <div class="well">Artist}}</div>
                         </div>
                         
                     </div>
                     <div class="row">
                         <div class="col-md-6">
-                            <div class="well">{{ele.dur}}</div>
+                            <div class="well">dur}}</div>
                         </div>
                         
                     </div>
                     <div class="row">
                         <div class="col-md-6">
-                            <div class="well">{{ele.genre}}</div>
+                            <div class="well">genre}}</div>
                         </div>
                         
                     </div>
