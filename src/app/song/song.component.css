@@ -1,37 +1,55 @@
 #container11{
     padding-top: 10px;
-    padding-left: 50px;
-    font-size: 30px;
-    height: 70px;
+    padding-left: 160px;
+    font-size: 20px;
+    /* text-align: center; */
+    height: 50px;
     width:  500px;
     
     border-radius: 60px;
-    border: 2px solid red;
+    border-bottom: 2px solid red;
     margin-top: 50px;    
+}
+.one{
+    padding-top: 70px;
+    background-color: black;
+    width:2096px;
 }
 .sec{
     background-color: black;
     /* background-image: url("/assets/images/bg1.jpg");
     background-size: 100%;
     background-size: cover; */
-    height: 1400px;
-    width: 1336px;
+    height: 100%;
+    padding-bottom: 70px;
+    border-bottom: 2px solid red;
+    width: 1096px;
     margin-left: 200px;
+    margin-top: -40px;
 
 }
 .cont{
-    background-color: black;
-    height: 700px;
-    padding-top: 70px;
+    background-color: #A8B5B1;
+    height: 200px;
+    padding-top: 170px;
     padding-bottom: 90px;
+    margin-left: 30px;
     background-image: url("/assets/images/pic1.jpg");
+    border-bottom-left-radius: 25px;
     background-size: 100% 100%;
     background-repeat: no-repeat;   
+    width: 1005px;
+    margin-top: 30px;
+    text-align: center;
 }
 .container1{
     padding-top: 30px;
     text-align: center;
+    padding-bottom: 100px;
 }
 a{
     font-size: 20px;
+}
+.song{
+    border: 2px;
 }

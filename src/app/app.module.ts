@@ -19,14 +19,15 @@ import { FavoneComponent } from './favone/favone.component';
     HomeComponent,
     FooterComponent,
     AllsongsComponent,
-<<<<<<< HEAD
+// <<<<<<< HEAD
     GenreComponent,
     FavComponent,
-    FavoneComponent
-=======
+    FavoneComponent,
     SongComponent,
-    GenreComponent
->>>>>>> 3c9d273466e6a8545867928975ee404db620626a
+// =======
+//     SongComponent,
+//     GenreComponent
+// >>>>>>> 3c9d273466e6a8545867928975ee404db620626a
   ],
   imports: [
     BrowserModule,
